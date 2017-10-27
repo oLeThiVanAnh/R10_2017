@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "AnimationScene.update(Double) -&gt; ():AnimationScene.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "animationBackground.children">
+            </PersistentString>
+            <PersistentString
+               value = "">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "AnimationScene.floatBubbles() -&gt; ():AnimationScene.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "animationBackground.children">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
